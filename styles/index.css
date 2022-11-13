@@ -1,0 +1,10 @@
+
+
+ul.books img{
+    padding: 10px;
+    width: 50%;
+}
+.books {
+    display: flex;
+    flex-flow: center;
+}

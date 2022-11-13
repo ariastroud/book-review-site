@@ -1,0 +1,49 @@
+header, footer {
+    background-color: pink;
+    border: 5px dotted;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+section {
+    background-color: aqua;
+}
+
+h1 {
+    color: red;
+}
+
+h2 {
+    color: green;
+}
+
+h3 {
+    color: midnightblue;
+}
+
+a:hover {
+    background-color: hotpink
+}
+
+li {
+    list-style-type: none;
+}
+
+footer ul {
+    display: flex;
+    justify-content: center;
+}
+footer p {
+    display: flex;
+    justify-content: center;
+}
+footer li {
+    padding: 10px;
+    align-items: center;
+}
+/* footer ul {
+    margin-left: auto;
+    margin-right: auto;
+} */
